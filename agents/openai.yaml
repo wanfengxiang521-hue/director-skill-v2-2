@@ -1,0 +1,4 @@
+interface:
+  display_name: "导演 Skill V2.2"
+  short_description: "把锁定脚本和表达目标转成可执行的导演方案、分镜与画面合同"
+  default_prompt: "Use $director-skill-v2-2 to turn this script or brief into an executable visual directing plan and DIRECTOR_LOCK v1."
